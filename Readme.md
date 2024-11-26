@@ -54,11 +54,7 @@ pip install -r requirements.txt
 
 ## Notebook Structure
 
-1. **Introduction**: Overview of the simulation objectives.
-2. **Parameter Configuration**: Customizable simulation parameters.
-3. **Simulation Logic**: Code to execute the simulation.
-4. **Result Analysis**: Tools to analyze and interpret data.
-5. **Visualizations**: Graphical representation of results.
+TODO
 
 ## Contributing
 
