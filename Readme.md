@@ -1,6 +1,14 @@
-# Simulation Analysis Notebook
+# Nonparametric Rank Tests
 
-This repository contains a Jupyter Notebook titled **`simulation.ipynb`**, which is designed for conducting and analyzing simulations. The notebook includes detailed sections for input parameters, simulation execution, and result visualization, providing a streamlined workflow for simulation studies.
+This repository contains a Jupyter Notebook titled **`simulation.ipynb`**, designed for conducting and analyzing non-parametric rank tests. The notebook includes sliders for input parameters and visualizations of the resulting data. The following tests are implemented:
+
+- **Mann-Whitney Test**
+- **Van der Waerden Test**
+- **Median Test**
+- **Friedman-Yates Test**
+- **Permutation Test**
+- **Two-Sample t-Test**
+
 
 ## Features
 
