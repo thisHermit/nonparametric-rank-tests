@@ -1,3 +1,4 @@
 back/
 *.pdf
 .ipynb_checkpoints/
+*.csv
