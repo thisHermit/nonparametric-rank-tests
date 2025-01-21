@@ -1,4 +1,4 @@
-# StaCoDS
+# {+StaCoDS+}: {+Sta+}tistical and {+Co+}mputational {+D+}ata {+S+}cience
 
 
 
